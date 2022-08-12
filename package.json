@@ -1,0 +1,23 @@
+{
+    "name": "com.mocheng.http",
+    "version": "0.0.1",
+    "displayName": "MoChengHTTP",
+    "description": "MoChengHTTP",
+    "unity": "2021.3",
+    
+ 
+    "dependencies": {
+ 
+   },
+   "keywords": [
+      "mocheng",
+      "tool"
+ 
+    ],
+    "author": {
+      "name": "MoCheng",
+      "email": "mochenghh@gmail.com"
+     
+    }
+  }
+  
